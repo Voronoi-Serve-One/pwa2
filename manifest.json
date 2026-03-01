@@ -1,10 +1,10 @@
 {
-  "name": "To Do List",
-  "short_name": "TDL",
-  "start_url": ".",
+  "name": "To-Do-List",
+  "short_name": "To-do",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#4CAF50",
+  "background_color": "#F5F5DC",
+  "theme_color": "#F5F5DC",
   "icons": [
     {
       "src": "icon-192.png",
@@ -18,3 +18,5 @@
     }
   ]
 }
+
+
